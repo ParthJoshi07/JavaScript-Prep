@@ -16,5 +16,5 @@ This is a web-based Rock Paper Scissors game built with HTML, CSS, and JavaScrip
 ## Requirements
 - A modern web browser (Chrome, Firefox, Edge, Safari)
 
-Website Link - rock-paper-scissors-real.netlify.app
+Website Link - s-p-s-gamepj.netlify.app
 
